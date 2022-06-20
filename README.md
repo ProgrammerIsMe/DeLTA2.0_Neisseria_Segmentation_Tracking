@@ -2,7 +2,8 @@
 
 ## Background
 Our research aims to segment and track Neisseria that are growing in two dimensions
-Using our own dataset, we train the segmentation model to improve the accuracy
+
+Using our own training dataset, we train the segmentation model and test the performance
 
 ## Steps
 1. Preparation for starting: show gpu and memory information
@@ -25,4 +26,5 @@ DeLTA2_v2.ipynb is the latest version
 
 ## Reference
 [1] Lugagne, Jean-Baptiste, Haonan Lin, and Mary J. Dunlop. "DeLTA: Automated cell segmentation, tracking, and lineage reconstruction using deep learning." PLoS computational biology 16.4 (2020): e1007673.
+
 [2] O’Connor, Owen M., et al. "DeLTA 2.0: A deep learning pipeline for quantifying single-cell spatial and temporal dynamics." PLOS Computational Biology 18.1 (2022): e1009797.
