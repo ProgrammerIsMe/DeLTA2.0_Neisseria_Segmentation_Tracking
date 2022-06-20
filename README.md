@@ -1,4 +1,4 @@
-# DeLTA2.
+# Neisseria_Segmentation_Tracking
 
 ## Background
 Our research aims to segment and track Neisseria that are growing in two dimensions
